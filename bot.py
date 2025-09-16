@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 BOT_TOKEN = "7461751127:AAGe_5-Gy5idbs8ZOUWKb3QJ5w3GH1EftQ4"
 
 # =================================================================
-ADMIN_IDS = [7722000515] # Bu yerga o'zingizning ID raqamingizni yozing
+ADMIN_IDS = [418940827] # Bu yerga o'zingizning ID raqamingizni yozing
 # =================================================================
 
 # XATO TUZATILDI: Bot obyekti to'g'ri nom bilan yaratildi
@@ -309,4 +309,5 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
+
     asyncio.run(main())
