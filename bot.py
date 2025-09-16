@@ -12,7 +12,7 @@ from aiogram.filters.callback_data import CallbackData
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "7461751127:AAGe_5-Gy5idbs8ZOUWKb3QJ5w3GH1EftQ4"
+BOT_TOKEN = "8178250523:AAHWnED5PBKipZXYL-jbzfa0ygftAGj685Y"
 
 # =================================================================
 ADMIN_IDS = [418940827] # Bu yerga o'zingizning ID raqamingizni yozing
@@ -311,3 +311,4 @@ async def main():
 if __name__ == "__main__":
 
     asyncio.run(main())
+
