@@ -12,10 +12,10 @@ from aiogram.filters.callback_data import CallbackData
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "8178250523:AAHWnED5PBKipZXYL-jbzfa0ygftAGj685Y"
+BOT_TOKEN = "jbzfa0ygftAGj685Y"
 
 # =================================================================
-ADMIN_IDS = [418940827] # Bu yerga o'zingizning ID raqamingizni yozing
+ADMIN_IDS = [41827] # Bu yerga o'zingizning ID raqamingizni yozing
 # =================================================================
 
 # XATO TUZATILDI: Bot obyekti to'g'ri nom bilan yaratildi
@@ -311,4 +311,5 @@ async def main():
 if __name__ == "__main__":
 
     asyncio.run(main())
+
 
